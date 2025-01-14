@@ -87,7 +87,7 @@ ul {
 
 .footer {
   background-color: #eeeeee;
-  display: flex;fit-content;
+  display: flex;
 }
 
 .left-links, .right-links {
